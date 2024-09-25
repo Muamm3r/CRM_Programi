@@ -1,0 +1,2 @@
+# CRM_Programi
+ Bu proje, müşteri ilişkilerini yönetmek için geliştirilebilir temel bir CRM (Customer Relationship Management) programıdır. Bu yazılım, müşteri bilgilerini toplamak, düzenlemek ve analiz etmek için çeşitli araçlar sunarak işletmelerin müşteri ilişkilerini daha etkili bir şekilde yönetmelerine yardımcı olur. Bu projede MySQL veritabanı kullanılmış olup, kodlar MySQL bağlantılarını içermektedir.
