@@ -35,15 +35,21 @@ This project is a basic, customizable CRM (Customer Relationship Management) pro
 🔶 **Kişisel AnaSayfa**: Kullanıcı, kendi ihtiyaçlarına uygun özelleştirilmiş menüleri açabilir. Bu menüler şunlardır:
 
 🔴Takvim: Kullanıcı, tarih öğrenmek veya bir tarih hakkında not almak için kullanabilir.
+
 🔴Görevlerim: Yönetici tarafından verilen görevler, ana sayfada 'Görevlerim' paneline düşer.
+
 🔴Müşteriler: Son eklenen müşteriler sırasıyla görüntülenir.
+
 🔴Notlarım: Her kullanıcı, kendi özel notlarını burada tutup kaydedebilir.
 
 🔷 **Personal HomePage"**: The user can open customized menus necessary for their own use. These menus include:
 
 🔵Calendar: The user can use this to learn a date or take notes about a date.
+
 🔵My Tasks: Tasks assigned by the administrator will appear in the 'My Tasks' panel on the home page.
+
 🔵Customers: The most recently added customers will be displayed in order.
+
 🔵My Notes: Each user can keep and save their personal notes here.
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
