@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|c:\\users\\fenel\\source\\repos\\crmprogram\u0131\\crmprogram\u0131\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\satisfirsatekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\satisfirsatekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\usercontrolgorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\usercontrolgorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\satisfirsatduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\satisfirsatduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\satisfirsatdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\satisfirsatdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\musterikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\musterikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\musteriduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\musteriduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\musteridetayduzen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\musteridetayduzen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\musteridetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\musteridetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\kullanicilistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\kullanicilistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\kullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\kullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\iletisimekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\iletisimekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\gorevver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\gorevver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\gorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\gorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\detaygoster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\detaygoster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\formbilesensecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\formbilesensecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\detayformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\detayformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\detayekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\detayekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\crmprogram\u0131\\usercontrolmusteriyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E812F5C-25EC-485D-860F-94A961801B06}|CRMProgram\u0131\\CRMProgram\u0131.csproj|solutionrelative:crmprogram\u0131\\usercontrolmusteriyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\AnaSayfa.cs",
+              "RelativeToolTip": "CRMProgram\u0131\\AnaSayfa.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:53:10.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\Giris.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\Giris.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\Giris.cs",
+              "RelativeToolTip": "CRMProgram\u0131\\Giris.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:50:32.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControlGorevler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\UserControlGorevler.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\UserControlGorevler.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\UserControlGorevler.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\UserControlGorevler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:18:50.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SatisFirsatEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\SatisFirsatEkle.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\SatisFirsatEkle.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\SatisFirsatEkle.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\SatisFirsatEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:12:38.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SatisFirsatDuzenle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\SatisFirsatDuzenle.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\SatisFirsatDuzenle.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\SatisFirsatDuzenle.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\SatisFirsatDuzenle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:18:41.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SatisFirsatDetay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\SatisFirsatDetay.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\SatisFirsatDetay.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\SatisFirsatDetay.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\SatisFirsatDetay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:18:38.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusteriKayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MusteriKayit.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\MusteriKayit.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MusteriKayit.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\MusteriKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:18:31.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MusteriDuzenle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MusteriDuzenle.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\MusteriDuzenle.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MusteriDuzenle.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\MusteriDuzenle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:18:24.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusteriDetayDuzen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MusteriDetayDuzen.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\MusteriDetayDuzen.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MusteriDetayDuzen.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\MusteriDetayDuzen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:18:21.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MusteriDetay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MusteriDetay.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\MusteriDetay.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MusteriDetay.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\MusteriDetay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:18:17.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MapForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MapForm.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\MapForm.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\MapForm.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\MapForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:15:18.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KullaniciListesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\KullaniciListesi.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\KullaniciListesi.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\KullaniciListesi.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\KullaniciListesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:15:13.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KullaniciEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\KullaniciEkle.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\KullaniciEkle.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\KullaniciEkle.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\KullaniciEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:15:10.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IletisimEkleme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\IletisimEkleme.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\IletisimEkleme.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\IletisimEkleme.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\IletisimEkleme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:55:52.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GorevVer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\GorevVer.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\GorevVer.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\GorevVer.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\GorevVer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:15:01.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Gorevler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\Gorevler.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\Gorevler.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\Gorevler.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\Gorevler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:14:57.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Giris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\Giris.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\Giris.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\Giris.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\Giris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:14:43.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormBilesenSecimi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\FormBilesenSecimi.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\FormBilesenSecimi.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\FormBilesenSecimi.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\FormBilesenSecimi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:14:35.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetayGoster.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\DetayGoster.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\DetayGoster.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\DetayGoster.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\DetayGoster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:14:28.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetayFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\DetayFormu.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\DetayFormu.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\DetayFormu.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\DetayFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:14:17.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetayEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\DetayEkle.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\DetayEkle.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\DetayEkle.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\DetayEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:14:07.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnaSayfa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\AnaSayfa.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\AnaSayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:12:50.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserControlMusteriYonetim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\UserControlMusteriYonetim.cs",
+              "RelativeDocumentMoniker": "CRMProgram\u0131\\UserControlMusteriYonetim.cs",
+              "ToolTip": "C:\\Users\\fenel\\source\\repos\\CRMProgram\u0131\\CRMProgram\u0131\\UserControlMusteriYonetim.cs [Design]",
+              "RelativeToolTip": "CRMProgram\u0131\\UserControlMusteriYonetim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:12:59.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
