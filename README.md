@@ -42,6 +42,7 @@ This project is a basic, customizable CRM (Customer Relationship Management) pro
 
 🔴Notlarım: Her kullanıcı, kendi özel notlarını burada tutup kaydedebilir.
 
+
 🔷 **Personal HomePage"**: The user can open customized menus necessary for their own use. These menus include:
 
 🔵Calendar: The user can use this to learn a date or take notes about a date.
