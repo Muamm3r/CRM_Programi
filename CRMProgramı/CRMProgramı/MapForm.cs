@@ -16,7 +16,7 @@ namespace CRMProgramı
         private GMapControl map;
         private GMapOverlay markersOverlay;
         private RichTextBox richTextBox1;
-        private string apiKey = "AIzaSyCgu1S2qM0pN5o7xpOr5q36YWBxUy4smZA"; // Buraya geçerli bir API anahtarı ekleyin
+        private string apiKey = "APİ KODUNUZU GİRİNİZ"; // Buraya geçerli bir API anahtarı ekleyin
 
         public string SelectedLocation { get; private set; }
 
